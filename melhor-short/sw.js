@@ -1,6 +1,6 @@
 // Service worker simples: guarda a casca do app para abrir rápido e funcionar como app instalado.
 // As chamadas à Binance nunca são guardadas (sempre dados ao vivo).
-const CACHE = "melhor-short-v1";
+const CACHE = "melhor-short-v2";
 const ARQUIVOS = ["./", "index.html", "manifest.webmanifest", "icons/ico_ZyomB.svg",
   "icons/icon-192.png", "icons/icon-512.png", "icons/maskable-192.png",
   "icons/maskable-512.png", "icons/apple-touch-icon.png", "icons/favicon-32.png"];
